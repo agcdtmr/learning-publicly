@@ -1,6 +1,6 @@
 # Learning Publicly
 
-- [Day 00 of my hashtag#100DaysOfCloudDevOps challenge](https://www.linkedin.com/posts/anjcalleja_100daysofclouddevops-challenge-day-00-activity-7175493193436688384-Ok2n?utm_source=share&utm_medium=member_desktop)
+- [Day 00 of my #100DaysOfCloudDevOps challenge](https://www.linkedin.com/posts/anjcalleja_100daysofclouddevops-challenge-day-00-activity-7175493193436688384-Ok2n?utm_source=share&utm_medium=member_desktop)
 - [Techlabs Rotterdam WhatsApp](https://www.linkedin.com/posts/anjcalleja_staying-closer-to-our-community-of-digital-activity-7172968714953285633-scWs?utm_source=share&utm_medium=member_desktop)
 - [Social dining: Rotterdam Women in Tech](https://www.linkedin.com/posts/anjcalleja_social-dining-rotterdam-women-in-tech-di-activity-7172967691903844353-R-9V?utm_source=share&utm_medium=member_desktop)
 - [I have been accepted into the hashtag#2hearts Mentorship Program 2024](https://www.linkedin.com/posts/anjcalleja_2hearts-europe-2heartsmentorshipprogram-activity-7170790935142846464-bLzl?utm_source=share&utm_medium=member_desktop)
