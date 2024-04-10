@@ -1,16 +1,16 @@
 ## Learning Publicly
 
 
-## In Progress
+## 2024 
+
+### In Progress
 
 
 - [Dockerized Python Django App](https://github.com/agcdtmr/sturdy-barnacle)
 - [100DaysOfCloudDevOps](https://github.com/agcdtmr/100DaysOfCloudDevOps)
 - [Data Engineering Project](https://github.com/agcdtmr/potential-pancake)
 - [Women Who Code Days of Code Challenge](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024)
-
-## 2024 
-
+- [Python](https://github.com/agcdtmr/learning-python)
 
 ### April 2024
 
@@ -37,6 +37,7 @@
 
 ### February 2024
 
+- [Terraform](https://github.com/agcdtmr/learning-terraform)
 - Automation: [CI/CD, GitLab, Jenkins, Ansible, Docker, K8s, IaC, ](https://github.com/agcdtmr/automation)
 - [Unlocking the Basics: A Beginner's Project of On-Premise Migration to MultiCloud with AWS, Google Cloud, and DevOps Tools – Docker, K8s, Terraform](https://www.linkedin.com/posts/anjcalleja_unlocking-the-basics-a-beginners-project-activity-7160662363644289025-MTLh?utm_source=share&utm_medium=member_desktop).
 
@@ -49,4 +50,7 @@
 
 ## 2022
 
+- [React Native](https://github.com/agcdtmr/christmas-travel)
 - [Python Flask App](https://github.com/agcdtmr/cfg_group_project)
+- [Basics of HTML, CSS & JavaScipt](https://github.com/agcdtmr/100hr-project-others)
+- [C language](https://github.com/agcdtmr/exploring-c)
