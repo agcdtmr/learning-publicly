@@ -5,7 +5,8 @@
 
 - [Dockerized Python Django App](https://github.com/agcdtmr/sturdy-barnacle)
 - [100DaysOfCloudDevOps](https://github.com/agcdtmr/100DaysOfCloudDevOps)
-
+- [Data Engineering Project](https://github.com/agcdtmr/potential-pancake)
+- [Women Who Code Days of Code Challenge](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024)
 
 ## 2024 
 
