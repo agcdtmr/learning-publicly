@@ -50,6 +50,7 @@
 
 ## 2022
 
+- Exploring the world of [Data](https://github.com/agcdtmr/data?tab=readme-ov-file)
 - [React Native](https://github.com/agcdtmr/christmas-travel)
 - [Python Flask App](https://github.com/agcdtmr/cfg_group_project)
 - [Basics of HTML, CSS & JavaScipt](https://github.com/agcdtmr/100hr-project-others)
