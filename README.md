@@ -1,12 +1,17 @@
 ## Learning Publicly
 
 
+## In Progress
+
+- [Dockerized Python Django App](https://github.com/agcdtmr/sturdy-barnacle)
+- [100DaysOfCloudDevOps](https://github.com/agcdtmr/100DaysOfCloudDevOps)
+
+
 ## 2024 
 
 
 ### April 2024
 
-- [Dockerized Python Django App](https://github.com/agcdtmr/sturdy-barnacle)
 - [#100DaysOfCloudDevOps Challenge — Day 04 — Streamlining Linux: Package Management, File System Insights, Optimizing Storage](https://www.linkedin.com/posts/anjcalleja_100daysofclouddevops-challenge-day-04-activity-7181633098055340032-s09W?utm_source=share&utm_medium=member_desktop)
 - [#100DaysOfCloudDevOps Challenge — Day 03 — Day-to-day Linux commands used by Cloud DevOps Engineers](https://www.linkedin.com/posts/anjcalleja_100daysofclouddevops-challenge-day-03-activity-7180935345360797696-iir0?utm_source=share&utm_medium=member_desktop)
 
@@ -30,6 +35,15 @@
 
 ### February 2024
 
-
-
 - [Unlocking the Basics: A Beginner's Project of On-Premise Migration to MultiCloud with AWS, Google Cloud, and DevOps Tools – Docker, K8s, Terraform](https://www.linkedin.com/posts/anjcalleja_unlocking-the-basics-a-beginners-project-activity-7160662363644289025-MTLh?utm_source=share&utm_medium=member_desktop).
+
+
+
+## 2023
+
+- [AZ-900 Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/680b15cd-91ad-4f45-97b1-a9b4809d57b8/linked_in_profile)
+- [Cloud Engineering project](https://github.com/techgrounds/techgrounds-anj-dtmr)
+
+## 2022
+
+- [Python Flask App](https://github.com/agcdtmr/cfg_group_project)
