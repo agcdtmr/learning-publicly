@@ -1,4 +1,11 @@
-# Learning Publicly
+## Learning Publicly
+
+
+## 2024 
+
+
+
+### March 2024
 
 - [Day 00 of my #100DaysOfCloudDevOps challenge](https://www.linkedin.com/posts/anjcalleja_100daysofclouddevops-challenge-day-00-activity-7175493193436688384-Ok2n?utm_source=share&utm_medium=member_desktop)
 - [Techlabs Rotterdam WhatsApp](https://www.linkedin.com/posts/anjcalleja_staying-closer-to-our-community-of-digital-activity-7172968714953285633-scWs?utm_source=share&utm_medium=member_desktop)
