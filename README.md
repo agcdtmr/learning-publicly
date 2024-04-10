@@ -7,8 +7,8 @@
 ### April 2024
 
 - [Dockerized Python Django App](https://github.com/agcdtmr/sturdy-barnacle)
-- [https://anj.hashnode.dev/100daysofclouddevops-challenge-day-03-day-to-day-linux-commands-used-by-cloud-devops-engineers](https://www.linkedin.com/posts/anjcalleja_100daysofclouddevops-challenge-day-04-activity-7181633098055340032-s09W?utm_source=share&utm_medium=member_desktop)
-- [#100DaysOfCloudDevOps Challenge — Day 04 — Streamlining Linux: Package Management, File System Insights, Optimizing Storage](https://www.linkedin.com/posts/anjcalleja_100daysofclouddevops-challenge-day-03-activity-7180935345360797696-iir0?utm_source=share&utm_medium=member_desktop)
+- [#100DaysOfCloudDevOps Challenge — Day 04 — Streamlining Linux: Package Management, File System Insights, Optimizing Storage](https://www.linkedin.com/posts/anjcalleja_100daysofclouddevops-challenge-day-04-activity-7181633098055340032-s09W?utm_source=share&utm_medium=member_desktop)
+- [#100DaysOfCloudDevOps Challenge — Day 03 — Day-to-day Linux commands used by Cloud DevOps Engineers](https://www.linkedin.com/posts/anjcalleja_100daysofclouddevops-challenge-day-03-activity-7180935345360797696-iir0?utm_source=share&utm_medium=member_desktop)
 
 ### March 2024
 
