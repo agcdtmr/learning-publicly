@@ -3,6 +3,7 @@
 
 ## In Progress
 
+
 - [Dockerized Python Django App](https://github.com/agcdtmr/sturdy-barnacle)
 - [100DaysOfCloudDevOps](https://github.com/agcdtmr/100DaysOfCloudDevOps)
 - [Data Engineering Project](https://github.com/agcdtmr/potential-pancake)
@@ -36,6 +37,7 @@
 
 ### February 2024
 
+- Automation: [CI/CD, GitLab, Jenkins, Ansible, Docker, K8s, IaC, ](https://github.com/agcdtmr/automation)
 - [Unlocking the Basics: A Beginner's Project of On-Premise Migration to MultiCloud with AWS, Google Cloud, and DevOps Tools – Docker, K8s, Terraform](https://www.linkedin.com/posts/anjcalleja_unlocking-the-basics-a-beginners-project-activity-7160662363644289025-MTLh?utm_source=share&utm_medium=member_desktop).
 
 
