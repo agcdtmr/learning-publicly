@@ -5,16 +5,20 @@
 
 ### In Progress
 
-
-- [Dockerized Python Django App](https://github.com/agcdtmr/sturdy-barnacle)
 - [Docker Mastery with Django](https://www.youtube.com/playlist?list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C)
 - [100DaysOfCloudDevOps](https://github.com/agcdtmr/100DaysOfCloudDevOps)
 - [Data Engineering Project](https://github.com/agcdtmr/potential-pancake)
 - [Women Who Code Days of Code Challenge](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024)
 - [Python](https://github.com/agcdtmr/learning-python)
 
-### April 2024
+### DONE! April 2024
 
+- [Setting up PostgreSQL with Django App using Docker Compose]
+- [Coding Challenge #04: Write a program to find the sum of all elements in a list](https://anj.hashnode.dev/coding-challenge-04-write-a-program-to-find-the-sum-of-all-elements-in-a-list)
+- [Build and run a Django application using Docker compose](https://www.linkedin.com/posts/anjcalleja_build-and-run-a-django-application-using-activity-7186377917281521664-Yb_S?utm_source=share&utm_medium=member_desktop)
+- [Dockerize a Python Django App](https://www.linkedin.com/posts/anjcalleja_dockerize-a-python-django-app-activity-7186025233554776065-r_Rl?utm_source=share&utm_medium=member_desktop)
+- [Coding Challenge #03: Write a function to count the number of vowels in a given string](https://anj.hashnode.dev/coding-challenge-03-write-a-function-to-count-the-number-of-vowels-in-a-given-string)
+- [#100DaysOfCloudDevOps Challenge — Day 05 — Editors](https://www.linkedin.com/posts/anjcalleja_newsletter-anj-in-tech-activity-7184128072701386752-wdg6?utm_source=share&utm_medium=member_desktop)
 - [#100DaysOfCloudDevOps Challenge — Day 04 — Streamlining Linux: Package Management, File System Insights, Optimizing Storage](https://www.linkedin.com/posts/anjcalleja_100daysofclouddevops-challenge-day-04-activity-7181633098055340032-s09W?utm_source=share&utm_medium=member_desktop)
 - [#100DaysOfCloudDevOps Challenge — Day 03 — Day-to-day Linux commands used by Cloud DevOps Engineers](https://www.linkedin.com/posts/anjcalleja_100daysofclouddevops-challenge-day-03-activity-7180935345360797696-iir0?utm_source=share&utm_medium=member_desktop)
 
