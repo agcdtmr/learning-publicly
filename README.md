@@ -22,7 +22,7 @@
 - [#100DaysOfCloudDevOps Challenge — Day 04 — Streamlining Linux: Package Management, File System Insights, Optimizing Storage](https://www.linkedin.com/posts/anjcalleja_100daysofclouddevops-challenge-day-04-activity-7181633098055340032-s09W?utm_source=share&utm_medium=member_desktop)
 - [#100DaysOfCloudDevOps Challenge — Day 03 — Day-to-day Linux commands used by Cloud DevOps Engineers](https://www.linkedin.com/posts/anjcalleja_100daysofclouddevops-challenge-day-03-activity-7180935345360797696-iir0?utm_source=share&utm_medium=member_desktop)
 
-### March 2024
+### DONE! March 2024
 
 - [#100DaysOfCloudDevOps Challenge — Day 02 — Configuring Vagrant to use Docker as the provider for a container-based local environment](https://www.linkedin.com/posts/anjcalleja_100daysofclouddevops-challenge-day-02-activity-7177990114239770624-UW0a?utm_source=share&utm_medium=member_desktop)
 - [Coding Challenge #02: Create a program to calculate the area of a circle given its radius.](https://anj.hashnode.dev/coding-challenge-02-create-a-program-to-calculate-the-area-of-a-circle-given-its-radius)
@@ -40,7 +40,7 @@
 
 
 
-### February 2024
+### DONE! February 2024
 
 - [Basics of Terraform](https://github.com/agcdtmr/learning-terraform)
 - Automation: [CI/CD, GitLab, Jenkins, Ansible, Docker, K8s, IaC, ](https://github.com/agcdtmr/automation)
@@ -48,12 +48,12 @@
 
 
 
-## 2023
+## DONE! 2023
 
 - [AZ-900 Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/680b15cd-91ad-4f45-97b1-a9b4809d57b8/linked_in_profile)
 - [Cloud Engineering project](https://github.com/techgrounds/techgrounds-anj-dtmr)
 
-## 2022
+## DONE! 2022
 
 - Exploring the world of [Data](https://github.com/agcdtmr/data?tab=readme-ov-file)
 - [React Native](https://github.com/agcdtmr/christmas-travel)
