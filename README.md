@@ -7,7 +7,6 @@
 
 - [Docker Mastery with Django](https://www.youtube.com/playlist?list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C)
 - [100DaysOfCloudDevOps](https://github.com/agcdtmr/100DaysOfCloudDevOps)
-- [Data Engineering Project](https://github.com/agcdtmr/potential-pancake)
 - [Women Who Code Days of Code Challenge](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024)
 - [Python](https://github.com/agcdtmr/learning-python)
 
