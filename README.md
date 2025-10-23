@@ -1,5 +1,11 @@
 ## Learning Publicly
 
+## 2025
+
+- CDK
+- AWS
+  - S3
+  - RDS
 
 ## 2024 
 
