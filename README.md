@@ -7,6 +7,7 @@
   - S3
   - RDS
 - [Observability](https://learn.datadoghq.com/certificates/9kfbkhnxn2)
+- [Datadog Quick Start](https://learn.datadoghq.com/certificates/wsqks8eyvw)
 
 
 ## 2024 
