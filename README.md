@@ -6,6 +6,8 @@
 - AWS
   - S3
   - RDS
+- [Observability](https://learn.datadoghq.com/certificates/9kfbkhnxn2)
+
 
 ## 2024 
 
