@@ -11,7 +11,7 @@ In network computing, communication usually follows a client-server model:
 
 Client: This is the program or device that requests a service or data. It initiates the communication. Examples include your web browser (Chrome, Firefox), a mobile app, or, in your case, the cURL command.
 
-Server: This is the program or device that provides the service or data in response to the request. In your AWS task, the API Gateway endpoint is the server (or rather, the gateway to the server that processes the request).
+Server: This is the program or device that provides the service or data in response to the request. In AWS, the API Gateway endpoint is the server (or rather, the gateway to the server that processes the request).
 
 ## Why It's Called "Client"
 cURL is called a "client" because when you execute the command, it immediately takes on the role of the requester:
