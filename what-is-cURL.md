@@ -71,10 +71,17 @@ In summary: The server knows that a client is asking for something, but it needs
 
 ## Let's try it!
 
-cURL Example: Simple Data Retrieval
+cURL Example: 
+
+
+### Simple Data Retrieval
 
 The most common way to use cURL is for simple data retrieval. You only need the URL:
 
 `curl http://wttr.in/amsterdam`
 
 This command acts as a Client asking the wttr.in Server for the weather data for Amsterdam. The server responds directly in your terminal.
+
+
+Let's try getting the public IP address of your machine.
+`curl ifconfig.me`
