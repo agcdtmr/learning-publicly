@@ -71,10 +71,7 @@ In summary: The server knows that a client is asking for something, but it needs
 
 ## Let's try it!
 
-cURL Example: 
-
-
-### Simple Data Retrieval
+##### Simple Data Retrieval
 
 The most common way to use cURL is for simple data retrieval. You only need the URL:
 
