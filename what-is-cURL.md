@@ -67,3 +67,14 @@ The essential authentication API-Key is correctly placed in a header.
 If you tried to just paste your data into a text file and send it without cURL, the server wouldn't recognize it as a valid, trustworthy request and would simply reject it.
 
 In summary: The server knows that a client is asking for something, but it needs a specialized program like cURL to correctly structure that question so it meets all the strict rules of the network protocol and the API design.
+
+
+## Let's try it!
+
+cURL Example: Simple Data Retrieval
+
+The most common way to use cURL is for simple data retrieval. You only need the URL:
+
+`curl http://wttr.in/amsterdam`
+
+This command acts as a Client asking the wttr.in Server for the weather data for Amsterdam. The server responds directly in your terminal.
