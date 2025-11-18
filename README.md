@@ -59,6 +59,7 @@
 
 ## DONE! 2023
 
+- [First tech job announcement](https://github.com/agcdtmr/learning-publicly/blob/main/rwit-feature.md)
 - [AZ-900 Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/680b15cd-91ad-4f45-97b1-a9b4809d57b8/linked_in_profile)
 - [Cloud Engineering project](https://github.com/techgrounds/techgrounds-anj-dtmr)
 
