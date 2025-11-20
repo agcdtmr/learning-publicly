@@ -9,8 +9,9 @@
 - [Datadog Fundamentals](https://learn.datadoghq.com/bundles/datadog-fundamentals-certification-learning-path)
   - [Observability](https://learn.datadoghq.com/certificates/9kfbkhnxn2)
   - [Datadog Quick Start](https://learn.datadoghq.com/certificates/wsqks8eyvw)
+  - [Datadog index](https://github.com/agcdtmr/learning-publicly/blob/main/datadog-indexes.md)
 - [What is cURL?](https://github.com/agcdtmr/learning-publicly/blob/main/what-is-cURL.md)
-- [Datadog index](https://github.com/agcdtmr/learning-publicly/blob/main/datadog-indexes.md)
+
 
 ## 2024 
 
