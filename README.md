@@ -10,7 +10,7 @@
   - [Observability](https://learn.datadoghq.com/certificates/9kfbkhnxn2)
   - [Datadog Quick Start](https://learn.datadoghq.com/certificates/wsqks8eyvw)
 - [What is cURL?](https://github.com/agcdtmr/learning-publicly/blob/main/what-is-cURL.md)
-- (Datadog index)[https://github.com/agcdtmr/learning-publicly/blob/main/datadog-indexes.md]
+- [Datadog index](https://github.com/agcdtmr/learning-publicly/blob/main/datadog-indexes.md)
 
 ## 2024 
 
