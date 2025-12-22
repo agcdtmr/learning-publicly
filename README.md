@@ -7,6 +7,7 @@
   - S3
   - [RDS Cluster](https://github.com/agcdtmr/learning-publicly/blob/main/rds.md)
   - [Security Group](https://github.com/agcdtmr/learning-publicly/blob/main/security-group.md)
+  - [CloudFormation](https://github.com/agcdtmr/learning-publicly/blob/main/CloudFormation_UPDATE.md)
 - [Datadog Fundamentals](https://learn.datadoghq.com/bundles/datadog-fundamentals-certification-learning-path)
   - [Observability](https://learn.datadoghq.com/certificates/9kfbkhnxn2)
   - [Datadog Quick Start](https://learn.datadoghq.com/certificates/wsqks8eyvw)
